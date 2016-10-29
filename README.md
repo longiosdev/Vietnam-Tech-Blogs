@@ -1,5 +1,5 @@
 # Vietnamese-Tech-Blogs
-List all tech vietnamese blogs for reference
+List all tech blogs written by Vietnamese for reference. Happy Blogging!
 
 ## iOS
 
