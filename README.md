@@ -52,6 +52,8 @@ List all tech blogs written by Vietnamese for reference. Happy Blogging!
 
 ## Company
 
+- [Techmaster](https://techmaster.vn/posts) by [@minhcuong](https://www.facebook.com/minhcuong)
+
 ## MISC
 
 
