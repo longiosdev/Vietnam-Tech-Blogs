@@ -8,4 +8,5 @@ List all tech blogs written by Vietnamese for reference. Happy Blogging!
 - [dangthaison91.wordpress.com](https://dangthaison91.wordpress.com/) by [dangthaison91](https://github.com/dangthaison91) / [@dangthaison.91](https://www.facebook.com/dangthaison.91)
 - [fantageek.com](http://fantageek.com) by [onmyway133](https://github.com/onmyway133) / [@onmyway133](https://twitter.com/onmyway133)
 - [hoangtran.me](http://hoangtran.me/) by [hoang-tran](https://github.com/hoang-tran) / [@hoang_tran90](https://twitter.com/hoang_tran90)
+- [nahoang.wordpress.com](https://nahoang.wordpress.com/) by [@death.shiva](https://www.facebook.com/death.shiva)
 
