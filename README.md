@@ -46,6 +46,8 @@ List all tech blogs written by Vietnamese for reference. Happy Blogging!
 
 ## Software Development
 
+- [toidicodedao.com](https://toidicodedao.com/) by [conanak99](https://github.com/conanak99) / [@huyhoang.pham.106](https://www.facebook.com/huyhoang.pham.106)
+
 ## Computer Science
 
 ## Company
