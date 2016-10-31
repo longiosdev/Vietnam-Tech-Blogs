@@ -32,6 +32,8 @@ List all tech blogs written by Vietnamese for reference. Happy Blogging!
 
 ### Wordpress
 
+- [thachpham.com](https://thachpham.com/) by [@thachpham92](https://www.facebook.com/thachpham92)
+
 ### Python
 
 ### PHP
