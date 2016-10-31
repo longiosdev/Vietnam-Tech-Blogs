@@ -1,7 +1,9 @@
 # Vietnamese-Tech-Blogs
 List all tech blogs written by Vietnamese for reference. Happy Blogging!
 
-## iOS
+## Mobile
+
+### iOS
 
 - [whoistuanhai.xyz](http://whoistuanhai.xyz) by [oldtrafford91](https://www.github.com/oldtrafford91) / [@tuanhai1991](https://www.facebook.com/tuanhai1991)
 - [viettranx.github.io](http://viettranx.github.io) by [viettranx](https://github.com/viettranx) / [@viettranx](https://www.facebook.com/viettranx)
@@ -14,18 +16,42 @@ List all tech blogs written by Vietnamese for reference. Happy Blogging!
 - [thangtm7.wordpress.com](https://thangtm7.wordpress.com/) by [@Minh.Thang.2018](https://www.facebook.com/Minh.Thang.2018)
 - [ninjapro.wordpress.com](https://ninjapro.wordpress.com/) by [ninjaprox](https://github.com/ninjaprox)
 
-## Android
+### Android
 
-## Nodejs
+### Game
 
-## Javascript
+## Web
 
-## RoR
+### .NET
 
-## Wordpress
+### Nodejs
 
-## Game
+### Javascript
+
+### RoR
+
+### Wordpress
+
+### Python
+
+### PHP
+
+## Startup
+
+## Hacking and Security
+
+## Testing
+
+## Agile
+
+## Software Development
+
+## Computer Science
 
 ## Company
+
+## MISC
+
+
 
 
