@@ -43,6 +43,8 @@ List all tech blogs written by Vietnamese for reference. Happy Blogging!
 
 ## Hacking and Security
 
+- [xnohat.blogspot.com](https://xnohat.blogspot.com/) by [@xnohat](https://www.facebook.com/xnohat)
+
 ## Testing
 
 ## Agile
