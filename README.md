@@ -15,6 +15,7 @@ List all tech blogs written by Vietnamese for reference. Happy Blogging!
 - [nghialv.com](http://nghialv.com/) by [nghialv](https://github.com/nghialv) / [@nghialv2607](https://twitter.com/nghialv2607)
 - [thangtm7.wordpress.com](https://thangtm7.wordpress.com/) by [@Minh.Thang.2018](https://www.facebook.com/Minh.Thang.2018)
 - [ninjapro.wordpress.com](https://ninjapro.wordpress.com/) by [ninjaprox](https://github.com/ninjaprox)
+- [chucuoi.net](https://chucuoi.net/) by [@hungdv136](https://www.facebook.com/hungdv136)
 
 ### Android
 
