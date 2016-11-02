@@ -25,6 +25,8 @@ List all tech blogs written by Vietnamese for reference. Happy Blogging!
 
 ### .NET
 
+- [tungnt.net](http://tungnt.net) by [tungnt185](https://github.com/tungnt185) / [@nikitakova](https://twitter.com/nikitakova)
+
 ### Nodejs
 
 ### Javascript
