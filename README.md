@@ -63,6 +63,8 @@ List all tech blogs written by Vietnamese for reference. Happy Blogging!
 - [tech.3si.vn](http://tech.3si.vn/) by [@3si.vn](https://facebook.com/3si.vn)
 - [Viblo](https://viblo.asia) by [@FramgiaVietNam](https://facebook.com/FramgiaVietnam)
 
+## Hackintosh
+
 ## MISC
 
 
