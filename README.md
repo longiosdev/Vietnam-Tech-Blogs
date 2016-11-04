@@ -41,6 +41,8 @@ List all tech blogs written by Vietnamese for reference. Happy Blogging!
 
 ### PHP
 
+- [bloghoctap.com](http://bloghoctap.com/) by [voduytuan](https://github.com/voduytuan) / [@voduytuan](https://www.facebook.com/voduytuan)
+
 ## Startup
 
 ## Hacking and Security
