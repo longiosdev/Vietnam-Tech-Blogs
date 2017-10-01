@@ -72,6 +72,4 @@ List all tech blogs written by Vietnamese for reference. Happy Blogging!
 
 ## MISC
 
-
-
-
+- [Duyệt's blog](http://blog.duyet.net/) by [duyetdev](https://github.com/duyetdev) / [@duyetdev](https://twitter.com/duyetdev)
