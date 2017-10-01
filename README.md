@@ -68,6 +68,7 @@ List all tech blogs written by Vietnamese for reference. Happy Blogging!
 ## Hackintosh
 
 - [viethackintosh.com](https://viethackintosh.com) by [@lvtienvenus](https://www.facebook.com/lvtienvenus)
+- [DươngTH](https://www.duongth.com/) by [@DuongOSX](https://www.facebook.com/DuongOSX)
 
 ## MISC
 
