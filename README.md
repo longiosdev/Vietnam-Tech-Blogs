@@ -19,6 +19,8 @@ List all tech blogs written by Vietnamese for reference. Happy Blogging!
 
 ### Android
 
+- [droidocs.wordpress.com/](https://droidocs.wordpress.com/) by [@savinvuitinh](https://www.facebook.com/savinvuitinh)
+
 ### Game
 
 ## Web
